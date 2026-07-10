@@ -14,7 +14,7 @@
 
 ## 直近のおすすめイベント
 
-[Henry Engineer Meetup #8 電子カルテSaaSを支えるSREing - connpass](https://henry.connpass.com/event/398315/)<br/>
+Henry Engineer Meetup #8 電子カルテSaaSを支えるSREing - connpass
 ![Henry Engineer Meetup #8 のページの QR コード](./images/henry_engineer_meetup_vol8.png)
 
 © 2026 Henry, Inc. All rights reserved.
