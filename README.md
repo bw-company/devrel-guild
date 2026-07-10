@@ -6,6 +6,8 @@
 
 [株式会社ヘンリー エンジニアブログ (はてなブログ)](https://dev.henry.jp/)<br/>
 
+[@henryappjp (X)](https://x.com/henryappjp)<br/>
+
 [ヘンリー理想駆動ラジオ (Spotify)](https://open.spotify.com/show/3CYYXQV02da04F0QKbc4tq)<br/>
 
 [会社公式ブログ (note)](https://note.com/henry_app)<br/>
