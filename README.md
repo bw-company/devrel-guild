@@ -14,7 +14,7 @@
 
 ## 直近のおすすめイベント
 
-2026/07/22 Henry Engineer Meetup #8 電子カルテSaaSを支えるSREing - connpass<br/>
+<a href="https://henry.connpass.com/event/398315/" referrerpolicy="no-referrer">2026/07/22 Henry Engineer Meetup #8 電子カルテSaaSを支えるSREing - connpass</a><br/>
 ![Henry Engineer Meetup #8 のページの QR コード](./images/henry_engineer_meetup_vol8.png)
 
 2026/09/16 HealthTech Meetup vol.4 〜医療テック業界における各社のAI現在地〜<br/>
