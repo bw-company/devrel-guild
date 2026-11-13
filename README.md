@@ -16,10 +16,10 @@
 
 ## 直近のおすすめイベント
 
-2026/07/22 Henry Engineer Meetup #8 電子カルテSaaSを支えるSREing - connpass<br/>
-![Henry Engineer Meetup #8 のページの QR コード](./images/henry_engineer_meetup_vol8.png)
+2026/11/20 Henry Engineer Meetup #9 異なる道から、医療テックへ（名古屋）<br/>
+![Henry Engineer Meetup #9 のページの QR コード](./images/henry_engineer_meetup_vol9.png)
 
-2026/09/16 HealthTech Meetup vol.4 〜医療テック業界における各社のAI現在地〜<br/>
-![HealthTech Meetup vol.4 のページの QR コード](./images/healthtech_meetup_vol4.png)
+2026/11/23 技術書典21 ヘンリー執筆部『電子カルテの開発を支える技術』シリーズ（し08）<br/>
+![技術書典 ヘンリー執筆部のサークルページの QR コード](./images/techbookfest21.png)
 
 © 2026 Henry, Inc. All rights reserved.
