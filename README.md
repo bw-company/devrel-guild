@@ -10,6 +10,8 @@
 
 [ヘンリー理想駆動ラジオ (Spotify)](https://open.spotify.com/show/3CYYXQV02da04F0QKbc4tq)<br/>
 
+[株式会社ヘンリー 公式Youtube](https://www.youtube.com/@henryappjp)<br/>
+
 [会社公式ブログ (note)](https://note.com/henry_app)<br/>
 
 ## 直近のおすすめイベント
